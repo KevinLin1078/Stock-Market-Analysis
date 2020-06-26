@@ -1,5 +1,4 @@
 def main():
-	global price_text
 	import requests, time, datetime
 	from bs4 import BeautifulSoup
 
